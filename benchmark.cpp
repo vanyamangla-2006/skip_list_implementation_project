@@ -1,9 +1,3 @@
-// Code by:
-//1. Tanishq Pratap
-//2. Yash Dobariya
-//3. Bhavy Hirpara
-//4. Akash Muhal
-
 #include <iostream>
 #include <chrono>
 #include <random> // For random numbers
