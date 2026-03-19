@@ -1,9 +1,3 @@
-#code by
-#1. Tanishq Pratap
-#2. Yash Dobariya
-#3. Bhavy Hirpara
-#4. Akash Muhal
-
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
